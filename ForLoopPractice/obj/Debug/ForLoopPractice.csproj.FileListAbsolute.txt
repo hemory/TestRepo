@@ -1,0 +1,6 @@
+C:\Users\hphif\source\repos\ForLoopPractice\ForLoopPractice\bin\Debug\ForLoopPractice.exe.config
+C:\Users\hphif\source\repos\ForLoopPractice\ForLoopPractice\bin\Debug\ForLoopPractice.exe
+C:\Users\hphif\source\repos\ForLoopPractice\ForLoopPractice\bin\Debug\ForLoopPractice.pdb
+C:\Users\hphif\source\repos\ForLoopPractice\ForLoopPractice\obj\Debug\ForLoopPractice.csprojAssemblyReference.cache
+C:\Users\hphif\source\repos\ForLoopPractice\ForLoopPractice\obj\Debug\ForLoopPractice.exe
+C:\Users\hphif\source\repos\ForLoopPractice\ForLoopPractice\obj\Debug\ForLoopPractice.pdb
