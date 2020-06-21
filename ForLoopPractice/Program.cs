@@ -16,6 +16,7 @@ namespace ForLoopPractice
             bool isOfLegalAge = IsLegal(userAge);
 
             Console.WriteLine(isOfLegalAge);
+            Console.WriteLine();
             
             Console.ReadLine();
         }
